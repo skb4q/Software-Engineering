@@ -1,0 +1,759 @@
+
+
+
+
+
+Synset('interfering.s.01')
+interfering busy
+unlikely sense detected - new sense:
+Synset('busy.a.01')
+word :busy
+def :actively or fully engaged or occupied
+
+
+
+
+
+using cosine lesk
+Synset('play.v.35')
+play play
+unlikely sense detected - new sense:
+Synset('play.v.01')
+loc. verb. U. cuando dos personas echan la pelota deuna mano a otra, jugando sin dejarla caer al suelo. Se aplica también a otrosjuegos cuando no media interés. ~ alguien de peligroso, o de vivo. 
+Lemma('play.v.01.إشترك_في_لعبة')
+word :play
+def :participate in games or sport
+
+
+
+
+
+Synset('menagerie.n.02')
+menagerie zoo
+unlikely sense detected - new sense:
+Synset('menagerie.n.02')
+word :zoo
+def :the facility where wild animals are housed for exhibition
+
+
+
+
+
+using cosine lesk
+Synset('make.v.42')
+make make
+unlikely sense detected - new sense:
+Synset('make.v.01')
+Lemma('make.v.01.احتال')
+word :make
+def :engage in
+
+
+Synset('necessitate.v.01')
+necessitate ask
+unlikely sense detected - new sense:
+Synset('ask.v.01')
+Lemma('ask.v.01.اِسْتخْبر')
+word :ask
+def :inquire about
+
+
+Synset('displace.v.03')
+displace can
+unlikely sense detected - new sense:
+Synset('can.v.01')
+Lemma('can.v.01.استطاع')
+word :can
+def :preserve in a can or tin
+
+
+
+
+using cosine lesk
+Synset('play.v.35')
+play play
+unlikely sense detected - new sense:
+Synset('play.v.01')
+loc. verb. U. cuando dos personas echan la pelota deuna mano a otra, jugando sin dejarla caer al suelo. Se aplica también a otrosjuegos cuando no media interés. ~ alguien de peligroso, o de vivo. 
+Lemma('play.v.01.إشترك_في_لعبة')
+word :play
+def :participate in games or sport
+
+
+
+
+Synset('show.v.04')
+show show
+Lemma('show.v.04.أدى_دورا')
+word :show
+def :make visible or noticeable
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+
+Synset('wish.v.02')
+wish like
+unlikely sense detected - new sense:
+Synset('wish.v.02')
+Lemma('wish.v.02.ابتغى')
+word :like
+def :prefer or wish to do something
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('state.v.01')
+Lemma('state.v.01.أخبر')
+word :say
+def :express in words
+
+
+
+
+
+Synset('fun.n.02')
+fun fun
+f. coloq. Chanza, burla. 
+word :fun
+def :verbal wit or mockery (often at another's expense but not to be taken seriously)
+
+using cosine lesk
+Synset('flee.v.01')
+flee fly
+unlikely sense detected - new sense:
+Synset('fly.v.01')
+Lemma('fly.v.01.إخترق_مستعينا_بأجنحة')
+word :fly
+def :travel through the air; be airborne
+
+
+
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('state.v.01')
+Lemma('state.v.01.أخبر')
+word :say
+def :express in words
+
+Synset('thanks.n.02')
+thanks thank
+Lemma('thanks.n.02.فضْل')
+word :thank
+def :with the help of or owing to
+
+
+
+
+
+
+
+Synset('attract.v.01')
+attract draw
+unlikely sense detected - new sense:
+Synset('pull.v.01')
+Lemma('pull.v.01.إجتذب_المشاهدين')
+word :draw
+def :cause to move by pulling
+
+
+Synset('big.s.12')
+big big
+unlikely sense detected - new sense:
+Synset('large.a.01')
+adj. grande. U. en sing. ante s. Gran empeño Gran montaña
+adj. Que supera en tamaño, importancia, dotes,intensidad, etc., a lo común y regular. 
+Lemma('large.a.01.كبِير')
+word :big
+def :above average in size or number or quantity or magnitude or extent
+
+Synset('gloomy.s.02')
+gloomy blue
+unlikely sense detected - new sense:
+Synset('blue.s.01')
+word :blue
+def :of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky
+
+Synset('pisces.n.02')
+pisces fish
+unlikely sense detected - new sense:
+Synset('fish.n.01')
+Lemma('fish.n.01.سمكة')
+word :fish
+def :any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills
+
+
+
+
+
+
+Synset('hold.v.03')
+hold give
+unlikely sense detected - new sense:
+Synset('give.v.01')
+Lemma('give.v.01.أعْطى')
+word :give
+def :cause to have, in the abstract sense or physical sense
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+
+
+
+
+Synset('reserve.v.04')
+reserve hold
+unlikely sense detected - new sense:
+Synset('keep.v.01')
+Lemma('keep.v.01.أبقى')
+word :hold
+def :keep in a certain state, position, or activity; e.g., "keep clean"
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+Synset('attract.v.01')
+attract pull
+unlikely sense detected - new sense:
+Synset('pull.v.01')
+Lemma('pull.v.01.إجتذب_المشاهدين')
+word :pull
+def :cause to move by pulling
+
+
+
+Synset('yard.n.08')
+yard yard
+unlikely sense detected - new sense:
+Synset('yard.n.01')
+f. Medida de longitud equivalente a 0,
+Lemma('yard.n.01.خُطْوَة')
+word :yard
+def :a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride
+
+
+
+Synset('wind.n.01')
+wind wind
+Lemma('wind.n.01.تيّار_هوائِي')
+word :wind
+def :air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure
+
+Synset('float.v.01')
+float blow
+unlikely sense detected - new sense:
+Synset('blow.v.01')
+word :blow
+def :exhale hard
+
+
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+Synset('bantam.s.01')
+bantam tiny
+unlikely sense detected - new sense:
+Synset('bantam.s.01')
+word :tiny
+def :very small
+
+
+Synset('travel.v.01')
+travel go
+unlikely sense detected - new sense:
+Synset('travel.v.01')
+loc. verb. coloq. Proseguir en loque se va diciendo o tratando. ~ alto un río o un arroyo. 
+Lemma('travel.v.01.أثار')
+word :go
+def :change location; move, travel, or proceed, also metaphorically
+
+
+
+
+
+
+Synset('watch.v.06')
+watch watch
+unlikely sense detected - new sense:
+Synset('watch.v.01')
+loc. verb. U.para conminarlo a que haga o deje de hacer algo. ~ a ver. 
+Lemma('watch.v.01.ارتقب')
+word :watch
+def :look attentively
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+Synset('attract.v.01')
+attract pull
+unlikely sense detected - new sense:
+Synset('pull.v.01')
+Lemma('pull.v.01.إجتذب_المشاهدين')
+word :pull
+def :cause to move by pulling
+
+
+
+
+
+
+
+Synset('sky.n.01')
+sky sky
+m. Esfera aparente azul y diáfana que rodea laTierra. 
+Lemma('sky.n.01.سماء')
+word :sky
+def :the atmosphere and outer space as viewed from the earth
+
+
+
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+using cosine lesk
+Synset('flee.v.01')
+flee fly
+unlikely sense detected - new sense:
+Synset('fly.v.01')
+Lemma('fly.v.01.إخترق_مستعينا_بأجنحة')
+word :fly
+def :travel through the air; be airborne
+
+
+
+
+
+Synset('cloud.n.03')
+cloud cloud
+word :cloud
+def :out of touch with reality
+
+
+
+
+
+using cosine lesk
+Synset('chase.n.03')
+chase chase
+word :chase
+def :a rectangular metal frame used in letterpress printing to hold together the pages or columns of composed type that are printed at one time
+
+
+
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+Synset('scat.v.01')
+scat run
+unlikely sense detected - new sense:
+Synset('run.v.01')
+loc. verb. coloq. Andar en diversiones o en lances peligrosos o ilícitos,especialmente si es a deshora de la noche.-
+Lemma('run.v.01.إجتاز_بسرعة')
+word :run
+def :move fast by using one's feet, with one foot off the ground at any given time
+
+
+
+
+
+Synset('slither.v.01')
+slither slither
+Lemma('slither.v.01.اختفى')
+word :slither
+def :to pass or move unobtrusively or smoothly
+
+
+
+
+Synset('menagerie.n.02')
+menagerie zoo
+unlikely sense detected - new sense:
+Synset('menagerie.n.02')
+word :zoo
+def :the facility where wild animals are housed for exhibition
+
+
+
+
+
+
+Synset('get.v.19')
+get catch
+unlikely sense detected - new sense:
+Synset('catch.v.01')
+loc. verb. coloq. emborracharse (|| beber hasta trastornarselos sentidos). ~la con alguien. 
+Lemma('catch.v.01.ضبط')
+word :catch
+def :discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state
+
+
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('state.v.01')
+Lemma('state.v.01.أخبر')
+word :say
+def :express in words
+
+
+
+
+
+Synset('tall.a.01')
+tall tall
+Lemma('tall.a.01.عالِي')
+word :tall
+def :great in vertical dimension; high in stature
+
+
+
+Synset('oral_sex.n.01')
+oral_sex head
+unlikely sense detected - new sense:
+Synset('head.n.01')
+f. Parte superior del cuerpo del hombre y superioro anterior de muchos animales, en la que están situados algunos órganos de lossentidos e importantes centros nerviosos. 
+Lemma('head.n.01.رأْس')
+word :head
+def :the upper part of the human body or the front part of the body in animals; contains the face and brains
+
+
+
+
+Synset('high.s.05')
+high high
+unlikely sense detected - new sense:
+Synset('high.a.01')
+word :high
+def :greater than normal in degree or intensity or amount
+
+
+
+Synset('cloud.n.03')
+cloud cloud
+word :cloud
+def :out of touch with reality
+
+
+
+using cosine lesk
+Synset('help.v.01')
+help help
+Lemma('help.v.01.أعان')
+word :help
+def :give help or assistance; be of service
+
+
+
+
+using cosine lesk
+Synset('shout.v.02')
+shout yell
+unlikely sense detected - new sense:
+Synset('shout.v.02')
+Lemma('shout.v.02.أثار_ضجة')
+word :yell
+def :utter a sudden loud cry
+
+using cosine lesk
+Synset('help.v.01')
+help help
+Lemma('help.v.01.أعان')
+word :help
+def :give help or assistance; be of service
+
+
+using cosine lesk
+Synset('help.v.01')
+help help
+Lemma('help.v.01.أعان')
+word :help
+def :give help or assistance; be of service
+
+
+
+
+
+
+
+Synset('high.s.05')
+high high
+unlikely sense detected - new sense:
+Synset('high.a.01')
+word :high
+def :greater than normal in degree or intensity or amount
+
+
+
+
+Synset('reach.v.07')
+reach reach
+unlikely sense detected - new sense:
+Synset('reach.v.01')
+loc. verb. no llegar. quedar, o salir, alguien alcanzado. 
+loc. verb. ganar el pan. llevar, o tener, alguien las de ~. 
+Lemma('reach.v.01.إتخذ_قرارا')
+word :reach
+def :reach a destination, either real or abstract
+
+
+
+
+Synset('order.v.01')
+order tell
+unlikely sense detected - new sense:
+Synset('state.v.01')
+Lemma('state.v.01.أخبر')
+word :tell
+def :express in words
+
+
+
+
+
+
+
+Synset('idea.n.03')
+idea idea
+f. Primero y másobvio de los actos del entendimiento, que se limita al simple conocimiento dealgo. 
+Lemma('idea.n.03.رأْي')
+word :idea
+def :a personal view
+
+
+using cosine lesk
+Synset('take.v.35')
+take take
+unlikely sense detected - new sense:
+Synset('take.v.01')
+loc. verb. coloq. Atribuir sin razón intención ofensivao picante a lo que otro hace o dice. ~ alguien de más alto, o de más lejos, algo. 1.locs. verbs. Acercarse más al origen o principio de ello. ~ alguien sobre sí algo.
+word :take
+def :carry out
+
+
+
+using cosine lesk
+Synset('hat.n.01')
+hat hat
+m. Prenda de vestir, que sirve para cubrir lacabeza, y consta de copa y ala. 
+Lemma('hat.n.01.غِطاء_الرّأْس')
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+
+
+Synset('reserve.v.04')
+reserve hold
+unlikely sense detected - new sense:
+Synset('keep.v.01')
+Lemma('keep.v.01.أبقى')
+word :hold
+def :keep in a certain state, position, or activity; e.g., "keep clean"
+
+
+
+
+
+Synset('displace.v.03')
+displace can
+unlikely sense detected - new sense:
+Synset('can.v.01')
+Lemma('can.v.01.استطاع')
+word :can
+def :preserve in a can or tin
+
+
+Synset('decrease.v.01')
+decrease fall
+unlikely sense detected - new sense:
+Synset('fall.v.01')
+loc. verb. coloq. No perjudicar notablemente a alguien o nosentir este demasiado el perjuicio que recibe. ~ bien alguien. 
+Lemma('fall.v.01.أخمد')
+word :fall
+def :descend in free fall under the influence of gravity
+
+
+
+using cosine lesk
+Synset('hat.n.01')
+hat hat
+m. Prenda de vestir, que sirve para cubrir lacabeza, y consta de copa y ala. 
+Lemma('hat.n.01.غِطاء_الرّأْس')
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+
+
+
+
+
+Synset('scar.v.01')
+scar scar
+word :scar
+def :mark with a scar
+
+
+
+Synset('supporter.n.01')
+supporter friend
+unlikely sense detected - new sense:
+Synset('friend.n.01')
+Lemma('friend.n.01.رفِيق')
+word :friend
+def :a person you know well and regard with affection and trust
+
+
+
+
+
+
+
+Synset('derail.v.02')
+derail jump
+unlikely sense detected - new sense:
+Synset('jump.v.01')
+Lemma('jump.v.01.أحاط')
+word :jump
+def :move forward by leaps and bounds
+
+
+
+using cosine lesk
+Synset('hat.n.01')
+hat hat
+m. Prenda de vestir, que sirve para cubrir lacabeza, y consta de copa y ala. 
+Lemma('hat.n.01.غِطاء_الرّأْس')
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+
+
+
+
+Synset('supporter.n.01')
+supporter friend
+unlikely sense detected - new sense:
+Synset('friend.n.01')
+Lemma('friend.n.01.رفِيق')
+word :friend
+def :a person you know well and regard with affection and trust
+
+Synset('cheer.n.01')
+cheer cheer
+f. Aplauso ruidoso que colectivamente setributa a alguien o algo. 
+m. Función pública en que a alguien se le aclama o aplaude unahazaña o acción gloriosa. 
+Lemma('cheer.n.01.تهْلِيل')
+word :cheer
+def :a cry or shout of approval
+
+
+
+
+Synset('happy.a.01')
+happy happy
+adj. Que tiene felicidad. Hombre feliz. U. t. ensent. fig. Estado feliz. 
+Lemma('happy.a.01.سعِيد')
+word :happy
+def :enjoying or showing or marked by joy or pleasure
+
+
+
+
+Synset('scar.v.01')
+scar scar
+word :scar
+def :mark with a scar
+
+
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('state.v.01')
+Lemma('state.v.01.أخبر')
+word :say
+def :express in words
+
+
+
+using cosine lesk
+Synset('save.v.05')
+save save
+unlikely sense detected - new sense:
+Synset('salvage.v.01')
+Lemma('salvage.v.01.أراح')
+word :save
+def :save from ruin, destruction, or harm
+
+
+
+
+using cosine lesk
+Synset('hat.n.01')
+hat hat
+m. Prenda de vestir, que sirve para cubrir lacabeza, y consta de copa y ala. 
+Lemma('hat.n.01.غِطاء_الرّأْس')
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+
+
+
+

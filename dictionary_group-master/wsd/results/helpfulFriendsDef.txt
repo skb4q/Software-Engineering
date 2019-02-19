@@ -1,0 +1,316 @@
+Gorilla is a proper noun.
+word :busy
+def :intrusive in a meddling or offensive manner
+word :busy Synset('interfering.s.01')
+Snake is a proper noun.
+Mouse is a proper noun.
+word :playing
+def :exhaust by allowing to pull on the line
+word :playing Synset('play.v.35')
+word :zoo
+def :the facility where wild animals are housed for exhibition
+word :zoo Synset('menagerie.n.02')
+What is a proper noun.
+word :making
+def :represent fictitiously, as in a play, or pretend to be or act like
+word :making Synset('make.v.42')
+Snake is a proper noun.
+word :asks
+def :require as useful, just, or proper
+word :asks Synset('necessitate.v.01')
+Gorilla is a proper noun.
+Can is a proper noun.
+Mouse is a proper noun.
+word :I
+def :the 9th letter of the Roman alphabet
+word :I Synset('i.n.03')
+word :play
+def :exhaust by allowing to pull on the line
+word :play Synset('play.v.35')
+Gorilla is a proper noun.
+word :shows
+def :be or become visible or noticeable
+word :shows Synset('show.v.08')
+word :kite
+def :a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+word :kite Synset('kite.n.02')
+Snake is a proper noun.
+Mouse is a proper noun.
+word :I
+def :the 9th letter of the Roman alphabet
+word :I Synset('i.n.03')
+word :like
+def :find enjoyable or agreeable
+word :like Synset('like.v.02')
+word :kite
+def :a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+word :kite Synset('kite.n.02')
+word :says
+def :utter aloud
+word :says Synset('say.v.08')
+Mouse is a proper noun.
+word :fun
+def :verbal wit or mockery (often at another's expense but not to be taken seriously)
+word :fun Synset('fun.n.02')
+word :flying
+def :run away quickly
+word :flying Synset('flee.v.01')
+Gorilla is a proper noun.
+word :says
+def :utter aloud
+word :says Synset('say.v.08')
+Thanks is a proper noun.
+Mouse is a proper noun.
+word :I
+def :the 9th letter of the Roman alphabet
+word :I Synset('i.n.03')
+word :I
+def :the 9th letter of the Roman alphabet
+word :I Synset('i.n.03')
+word :drew
+def :take in, also metaphorically
+word :drew Synset('absorb.v.04')
+word :big
+def :marked by intense physical force
+word :big Synset('big.s.10')
+word :blue
+def :filled with melancholy and despondency
+word :blue Synset('gloomy.s.02')
+word :fish
+def :the twelfth sign of the zodiac; the sun is in this sign from about February 19 to March 20
+word :fish Synset('pisces.n.01')
+Then is a proper noun.
+Gorilla is a proper noun.
+word :gives
+def :transfer possession of something concrete or abstract to somebody
+word :gives Synset('give.v.03')
+word :kite
+def :a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+word :kite Synset('kite.n.02')
+Mouse is a proper noun.
+word :He
+def :the 5th letter of the Hebrew alphabet
+word :He Synset('he.n.02')
+Mouse is a proper noun.
+word :holds
+def :be in accord; be in agreement
+word :holds Synset('agree.v.01')
+word :kite
+def :a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+word :kite Synset('kite.n.02')
+word :pulled
+def :apply force so as to cause motion towards the source of the motion
+word :pulled Synset('pull.v.04')
+word :yard
+def :an enclosure for animals (as chicken or livestock)
+word :yard Synset('yard.n.09')
+The is a proper noun.
+word :wind
+def :air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure
+word :wind Synset('wind.n.01')
+word :blows
+def :make a mess of, destroy or ruin
+word :blows Synset('botch.v.01')
+word :hard
+def :dispassionate; 
+word :hard Synset('hard.a.02')
+word :kite
+def :a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+word :kite Synset('kite.n.02')
+word :tiny
+def :very small
+word :tiny Synset('bantam.s.01')
+Mouse is a proper noun.
+word :goes
+def :pass from physical life and lose all bodily attributes and functions necessary to sustain life
+word :goes Synset('die.v.01')
+Gorilla is a proper noun.
+Snake is a proper noun.
+word :watch
+def :follow with the eyes or the mind
+word :watch Synset('watch.v.02')
+word :kite
+def :a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+word :kite Synset('kite.n.02')
+word :pulling
+def :apply force so as to cause motion towards the source of the motion
+word :pulling Synset('pull.v.04')
+Mouse is a proper noun.
+word :sky
+def :the atmosphere and outer space as viewed from the earth
+word :sky Synset('sky.n.01')
+Mouse is a proper noun.
+word :kite
+def :a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+word :kite Synset('kite.n.02')
+word :flying
+def :run away quickly
+word :flying Synset('flee.v.01')
+word :high
+def :at a great altitude
+word :high Synset('high.r.01')
+word :clouds
+def :a visible mass of water or ice particles suspended at a considerable altitude
+word :clouds Synset('cloud.n.02')
+Gorilla is a proper noun.
+Snake is a proper noun.
+word :chase
+def :a rectangular metal frame used in letterpress printing to hold together the pages or columns of composed type that are printed at one time
+word :chase Synset('chase.n.03')
+Mouse is a proper noun.
+word :kite
+def :a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+word :kite Synset('kite.n.02')
+Gorilla is a proper noun.
+word :running
+def :make without a miss
+word :running Synset('run.v.24')
+word :fast
+def :quickly or rapidly (often used as a combining form)
+word :fast Synset('fast.r.01')
+Snake is a proper noun.
+word :slithering
+def :to pass or move unobtrusively or smoothly
+word :slithering Synset('slither.v.01')
+word :quickly
+def :without taking pains
+word :quickly Synset('cursorily.r.01')
+word :zoo
+def :the facility where wild animals are housed for exhibition
+word :zoo Synset('menagerie.n.02')
+But is a proper noun.
+word :catch
+def :take in and retain
+word :catch Synset('catch.v.25')
+Mouse is a proper noun.
+word :kite
+def :a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+word :kite Synset('kite.n.02')
+Look is a proper noun.
+There is a proper noun.
+Giraffe is a proper noun.
+word :says
+def :utter aloud
+word :says Synset('say.v.08')
+Gorilla is a proper noun.
+She is a proper noun.
+word :tall
+def :lofty in style
+word :tall Synset('grandiloquent.s.01')
+Her is a proper noun.
+word :head
+def :oral stimulation of the genitals
+word :head Synset('oral_sex.n.01')
+word :high
+def :happy and excited and energetic
+word :high Synset('high.s.05')
+word :clouds
+def :a visible mass of water or ice particles suspended at a considerable altitude
+word :clouds Synset('cloud.n.02')
+She is a proper noun.
+word :help
+def :give help or assistance; be of service
+word :help Synset('help.v.01')
+Mouse is a proper noun.
+Mouse is a proper noun.
+word :yells
+def :utter a sudden loud cry
+word :yells Synset('shout.v.02')
+word :HELP
+def :give help or assistance; be of service
+word :HELP Synset('help.v.01')
+word :HELP
+def :give help or assistance; be of service
+word :HELP Synset('help.v.01')
+Giraffe is a proper noun.
+But is a proper noun.
+Mouse is a proper noun.
+word :high
+def :happy and excited and energetic
+word :high Synset('high.s.05')
+Giraffe is a proper noun.
+word :reach
+def :to gain with effort
+word :reach Synset('achieve.v.01')
+Then is a proper noun.
+Giraffe is a proper noun.
+word :tells
+def :express in words
+word :tells Synset('state.v.01')
+Gorilla is a proper noun.
+Snake is a proper noun.
+word :I
+def :the 9th letter of the Roman alphabet
+word :I Synset('i.n.03')
+word :idea
+def :a personal view
+word :idea Synset('idea.n.03')
+She is a proper noun.
+word :takes
+def :have sex with; archaic use
+word :takes Synset('take.v.35')
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+word :hat Synset('hat.n.01')
+word :holds
+def :be in accord; be in agreement
+word :holds Synset('agree.v.01')
+Mouse is a proper noun.
+Can is a proper noun.
+Mouse is a proper noun.
+word :fall
+def :die, as in battle or in a hunt
+word :fall Synset('fall.v.07')
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+word :hat Synset('hat.n.01')
+But is a proper noun.
+Mouse is a proper noun.
+word :scared
+def :mark with a scar
+word :scared Synset('scar.v.01')
+word :friends
+def :a person you know well and regard with affection and trust
+word :friends Synset('friend.n.01')
+Jump is a proper noun.
+Mouse is a proper noun.
+Then is a proper noun.
+Mouse is a proper noun.
+word :jumps
+def :rise in rank or status
+word :jumps Synset('rise.v.11')
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+word :hat Synset('hat.n.01')
+Hooray is a proper noun.
+The is a proper noun.
+word :friends
+def :a person you know well and regard with affection and trust
+word :friends Synset('friend.n.01')
+word :cheer
+def :a cry or shout of approval
+word :cheer Synset('cheer.n.01')
+Mouse is a proper noun.
+word :happy
+def :eagerly disposed to act or to be of service
+word :happy Synset('glad.s.02')
+word :scared
+def :mark with a scar
+word :scared Synset('scar.v.01')
+Look is a proper noun.
+Snake is a proper noun.
+word :says
+def :utter aloud
+word :says Synset('say.v.08')
+Gorilla is a proper noun.
+Giraffe is a proper noun.
+word :saved
+def :accumulate money for future use
+word :saved Synset('save.v.05')
+Mouse is a proper noun.
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+word :hat Synset('hat.n.01')
+word :END
+def :have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical
+word :END Synset('end.v.01')

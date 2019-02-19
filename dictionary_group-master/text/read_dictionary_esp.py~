@@ -1,0 +1,112 @@
+import re
+import string
+import copy
+
+#removes text inside brackets
+def remove_text_inside(text, brackets="()[]"):
+    count = [0] * (len(brackets) // 2) # count open/close brackets
+    saved_chars = []
+    for character in text:
+        for i, b in enumerate(brackets):
+            if character == b: # found bracket
+                kind, is_close = divmod(i, 2)
+                count[kind] += (-1)**is_close # `+1`: open, `-1`: close
+                if count[kind] < 0: # unbalanced bracket
+                    count[kind] = 0  # keep it
+                else:  # found bracket to remove
+                    break
+        else: # character is not a [balanced] bracket
+            if not any(count): # outside brackets
+                saved_chars.append(character)
+    return ''.join(saved_chars)
+
+def remove_end(text):
+    new_text = ""
+    for ch in text:
+        if ord(ch) == 127:
+            return new_text
+        else:
+            new_text += ch
+    return new_text
+
+def remove_num(word):
+    result = ''.join([i for i in word if not i.isdigit()])
+    return result
+
+def remove_notalpha(line):
+    result = ''.join([i for i in line if i.isalpha() or i == ' '])
+    return result
+
+def remove_double_space(line):
+    lastch = ''
+    result = ""
+    for ch in line:
+        if not (ch == ' ' and lastch == ' '):
+            lastch = ch
+            result += ch
+        else:
+            lastch = ch
+    return result
+
+def remove_endl(line):
+    result = ""
+    for ch in line:
+        if ch != '\n' and ch != '\r':
+            result += ch
+    return result
+
+def print_last_ascii(line):
+    lastCh = ''
+    for ch in line:
+        lastCh = ch
+    return ord(lastCh)
+
+#changes multiword parts of speech into single word part of speech
+def change_part_of_speech(line):
+    line = re.sub('past part', 'pastpart', line.rstrip())
+    line = re.sub('us var', 'usvar', line.rstrip())
+    line = re.sub('coarse slg','coarseslg', line.rstrip())
+    return line
+
+def groom_text(line):
+    #next several lines just format the dictionary
+    line = line.encode('ascii', 'ignore').decode('ascii')
+    line = remove_text_inside(line, brackets="()[]") 
+    line = remove_end(line)
+    line = remove_notalpha(line)
+    line = remove_double_space(line)
+    line = line.lower()
+    #maybe good to just alter the dictionary but for now I am going to try 
+    #and do that as little as possible
+    line = change_part_of_speech(line)
+    #words = re.split("[ ,!?;:]", line)
+    #words = list(filter(None, words))
+    return line
+
+def main():
+    with open("RealAcademiaEspanola-DiccionarioLlengueaEspanola.txt", encoding='UTF-8') as f:
+        #list of entries
+        espDict = {}
+        key = ""
+        cnt = 0
+        p_of_speech = [
+                "m.", "verb.", "adj.","V.",
+                "f.","var.","abbr.","prefix.",
+                "colloq.","symb.","adv.","naut.",
+                "prep.", "mus.","int.","comb.",
+                "predic.","aeron.","contr.","slg.",
+                "chem.","attrib.","ist.","conj.",
+                "pron.","past.","usu.","biol.", 
+                "derog.","esp.","vulg.","pastpart.",
+                "coarseslg.","unst.", "can.", "austral."
+                ]
+        part_of_speech = frozenset(p_of_speech)
+        #handle eacch line in this loop
+        dicstr = f.read()
+        entries = []
+        entries = dicstr.split('>')
+        for entry in entries:
+            key, sep, definition = entry.partition('.')
+            first, sep, definiton = definition.partition('1')
+            print(definition)
+main()

@@ -1,0 +1,893 @@
+
+
+
+
+
+Synset('interfering.s.01')
+interfering busy
+unlikely sense detected - new sense:
+Synset('busy.a.01')
+[]
+
+[]
+word :busy
+def :actively or fully engaged or occupied
+
+
+
+
+
+Synset('play.v.35')
+play play
+unlikely sense detected - new sense:
+Synset('play.v.01')
+[Lemma('play.v.01.jugar')]
+
+[Lemma('play.v.01.إشترك_في_لعبة'), Lemma('play.v.01.بارى'), Lemma('play.v.01.تسلى'), Lemma('play.v.01.تلاعب'), Lemma('play.v.01.تلاعب_بالألفاظ'), Lemma('play.v.01.تنافس'), Lemma('play.v.01.حرك_حجر_الشطرنج'), Lemma('play.v.01.عزف'), Lemma('play.v.01.لعب'), Lemma('play.v.01.لعِب'), Lemma('play.v.01.لعب_دور'), Lemma('play.v.01.لعب_مع'), Lemma('play.v.01.مثل')]
+word :play
+def :participate in games or sport
+
+
+
+
+
+Synset('menagerie.n.02')
+menagerie zoo
+unlikely sense detected - new sense:
+Synset('menagerie.n.02')
+[Lemma('menagerie.n.02.jardín_zoológico')]
+
+[]
+word :zoo
+def :the facility where wild animals are housed for exhibition
+
+
+
+
+
+Synset('make.v.42')
+make make
+unlikely sense detected - new sense:
+Synset('make.v.01')
+[Lemma('make.v.01.hacer')]
+
+[Lemma('make.v.01.احتال'), Lemma('make.v.01.أدى'), Lemma('make.v.01.ارتكب'), Lemma('make.v.01.أعد_للطبخ'), Lemma('make.v.01.أنتج'), Lemma('make.v.01.انتهى'), Lemma('make.v.01.أنهى'), Lemma('make.v.01.اهتم'), Lemma('make.v.01.بذل'), Lemma('make.v.01.جمل_بمستحضرات_تجميل'), Lemma('make.v.01.خدع'), Lemma('make.v.01.رتب'), Lemma('make.v.01.زخرف'), Lemma('make.v.01.عمِل'), Lemma('make.v.01.فعل'), Lemma('make.v.01.قام_ب'), Lemma('make.v.01.قدم_خدمة'), Lemma('make.v.01.نجز'), Lemma('make.v.01.نظف'), Lemma('make.v.01.نفذ'), Lemma('make.v.01.وضع')]
+word :make
+def :engage in
+
+
+Synset('necessitate.v.01')
+necessitate ask
+unlikely sense detected - new sense:
+Synset('ask.v.01')
+[Lemma('ask.v.01.preguntar'), Lemma('ask.v.01.solicitar')]
+
+[Lemma('ask.v.01.اِسْتخْبر'), Lemma('ask.v.01.اِسْتعْلم'), Lemma('ask.v.01.اِسْتفْسر'), Lemma('ask.v.01.سأل')]
+word :ask
+def :inquire about
+
+
+Synset('displace.v.03')
+displace can
+unlikely sense detected - new sense:
+Synset('can.v.01')
+[]
+
+[Lemma('can.v.01.استطاع'), Lemma('can.v.01.أوقف'), Lemma('can.v.01.بيض_بالقصدير'), Lemma('can.v.01.سجن'), Lemma('can.v.01.طلى_بالقصدير'), Lemma('can.v.01.علب'), Lemma('can.v.01.علّب'), Lemma('can.v.01.قدر'), Lemma('can.v.01.قصدر'), Lemma('can.v.01.مكن'), Lemma('can.v.01.وضع_في_علبة')]
+word :can
+def :preserve in a can or tin
+
+
+
+
+Synset('play.v.35')
+play play
+unlikely sense detected - new sense:
+Synset('play.v.01')
+[Lemma('play.v.01.jugar')]
+
+[Lemma('play.v.01.إشترك_في_لعبة'), Lemma('play.v.01.بارى'), Lemma('play.v.01.تسلى'), Lemma('play.v.01.تلاعب'), Lemma('play.v.01.تلاعب_بالألفاظ'), Lemma('play.v.01.تنافس'), Lemma('play.v.01.حرك_حجر_الشطرنج'), Lemma('play.v.01.عزف'), Lemma('play.v.01.لعب'), Lemma('play.v.01.لعِب'), Lemma('play.v.01.لعب_دور'), Lemma('play.v.01.لعب_مع'), Lemma('play.v.01.مثل')]
+word :play
+def :participate in games or sport
+
+
+
+
+Synset('show.v.04')
+show show
+[Lemma('show.v.04.enseñar'), Lemma('show.v.04.evidenciar'), Lemma('show.v.04.mostrar'), Lemma('show.v.04.poner_de_manifiesto')]
+
+[Lemma('show.v.04.أدى_دورا'), Lemma('show.v.04.أرى'), Lemma('show.v.04.استعرض'), Lemma('show.v.04.أشار'), Lemma('show.v.04.أعلن'), Lemma('show.v.04.أكد'), Lemma('show.v.04.برهن'), Lemma('show.v.04.بين'), Lemma('show.v.04.تظاهر'), Lemma('show.v.04.طهر'), Lemma('show.v.04.ظهر'), Lemma('show.v.04.عرض'), Lemma('show.v.04.قاد'), Lemma('show.v.04.قدم'), Lemma('show.v.04.مثل')]
+word :show
+def :make visible or noticeable
+
+
+Synset('kite.n.03')
+kite kite
+[]
+
+[]
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+
+Synset('wish.v.02')
+wish like
+unlikely sense detected - new sense:
+Synset('wish.v.02')
+[Lemma('wish.v.02.gustar')]
+
+[Lemma('wish.v.02.ابتغى'), Lemma('wish.v.02.أراد'), Lemma('wish.v.02.اشتهى'), Lemma('wish.v.02.اعتنى'), Lemma('wish.v.02.تاق'), Lemma('wish.v.02.تشابه'), Lemma('wish.v.02.تماثل'), Lemma('wish.v.02.تمنى'), Lemma('wish.v.02.حب'), Lemma('wish.v.02.رام'), Lemma('wish.v.02.رغب'), Lemma('wish.v.02.فرض_عليه'), Lemma('wish.v.02.مال'), Lemma('wish.v.02.مال_إلي'), Lemma('wish.v.02.ود')]
+word :like
+def :prefer or wish to do something
+
+
+Synset('kite.n.03')
+kite kite
+[]
+
+[]
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('state.v.01')
+[Lemma('state.v.01.decir'), Lemma('state.v.01.manifestar')]
+
+[Lemma('state.v.01.أخبر'), Lemma('state.v.01.أخْبر'), Lemma('state.v.01.اعترف'), Lemma('state.v.01.اعتقد'), Lemma('state.v.01.أعلن'), Lemma('state.v.01.ألقى_خطابا'), Lemma('state.v.01.أوْرد'), Lemma('state.v.01.بسط'), Lemma('state.v.01.تكلم'), Lemma('state.v.01.روى'), Lemma('state.v.01.زعم'), Lemma('state.v.01.صاغ'), Lemma('state.v.01.صرح'), Lemma('state.v.01.صرّح'), Lemma('state.v.01.عرض'), Lemma('state.v.01.عين'), Lemma('state.v.01.قال'), Lemma('state.v.01.قرر'), Lemma('state.v.01.لفظ'), Lemma('state.v.01.نطق'), Lemma('state.v.01.وضح')]
+word :say
+def :express in words
+
+
+
+
+
+Synset('fun.n.02')
+fun fun
+[Lemma('fun.n.02.guasa')]
+
+[]
+word :fun
+def :verbal wit or mockery (often at another's expense but not to be taken seriously)
+
+Synset('flee.v.01')
+flee fly
+unlikely sense detected - new sense:
+Synset('fly.v.01')
+[Lemma('fly.v.01.volar')]
+
+[Lemma('fly.v.01.إخترق_مستعينا_بأجنحة'), Lemma('fly.v.01.إنطلق_بسرعة'), Lemma('fly.v.01.تبدد'), Lemma('fly.v.01.تلاشى'), Lemma('fly.v.01.جنح'), Lemma('fly.v.01.حلق'), Lemma('fly.v.01.حلّق'), Lemma('fly.v.01.ساعده_على_الطيران'), Lemma('fly.v.01.سافر'), Lemma('fly.v.01.سدد_الضربات'), Lemma('fly.v.01.سقط_طائرة'), Lemma('fly.v.01.شق_طريق_بالطيران'), Lemma('fly.v.01.طار'), Lemma('fly.v.01.عبر'), Lemma('fly.v.01.فر'), Lemma('fly.v.01.هرب')]
+word :fly
+def :travel through the air; be airborne
+
+
+
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('state.v.01')
+[Lemma('state.v.01.decir'), Lemma('state.v.01.manifestar')]
+
+[Lemma('state.v.01.أخبر'), Lemma('state.v.01.أخْبر'), Lemma('state.v.01.اعترف'), Lemma('state.v.01.اعتقد'), Lemma('state.v.01.أعلن'), Lemma('state.v.01.ألقى_خطابا'), Lemma('state.v.01.أوْرد'), Lemma('state.v.01.بسط'), Lemma('state.v.01.تكلم'), Lemma('state.v.01.روى'), Lemma('state.v.01.زعم'), Lemma('state.v.01.صاغ'), Lemma('state.v.01.صرح'), Lemma('state.v.01.صرّح'), Lemma('state.v.01.عرض'), Lemma('state.v.01.عين'), Lemma('state.v.01.قال'), Lemma('state.v.01.قرر'), Lemma('state.v.01.لفظ'), Lemma('state.v.01.نطق'), Lemma('state.v.01.وضح')]
+word :say
+def :express in words
+
+Synset('thanks.n.02')
+thanks thank
+[Lemma('thanks.n.02.gracias')]
+
+[Lemma('thanks.n.02.فضْل')]
+word :thank
+def :with the help of or owing to
+
+
+
+
+
+
+
+Synset('attract.v.01')
+attract draw
+unlikely sense detected - new sense:
+Synset('pull.v.01')
+[Lemma('pull.v.01.arrastrar'), Lemma('pull.v.01.estirar'), Lemma('pull.v.01.tirar')]
+
+[Lemma('pull.v.01.إجتذب_المشاهدين'), Lemma('pull.v.01.أخذ_جرعة_من_شراب'), Lemma('pull.v.01.أرهق_بالملاحقة'), Lemma('pull.v.01.أزاح'), Lemma('pull.v.01.استل'), Lemma('pull.v.01.استنتج'), Lemma('pull.v.01.استهوى'), Lemma('pull.v.01.اضطر'), Lemma('pull.v.01.أطلق'), Lemma('pull.v.01.أطلق_النار'), Lemma('pull.v.01.اغتصب'), Lemma('pull.v.01.اقتلع'), Lemma('pull.v.01.انتزع'), Lemma('pull.v.01.إنتزع_عنوة'), Lemma('pull.v.01.تجبر'), Lemma('pull.v.01.تقاضى'), Lemma('pull.v.01.تقدم_تدريجيا'), Lemma('pull.v.01.تلقى'), Lemma('pull.v.01.تناول'), Lemma('pull.v.01.توغل'), Lemma('pull.v.01.جذب'), Lemma('pull.v.01.جر'), Lemma('pull.v.01.جرّ'), Lemma('pull.v.01.جرى_سحب_يانصيب'), Lemma('pull.v.01.حرر_وصية'), Lemma('pull.v.01.خسر'), Lemma('pull.v.01.دفع_بالقوة'), Lemma('pull.v.01.ربح'), Lemma('pull.v.01.رسم'), Lemma('pull.v.01.سحب'), Lemma('pull.v.01.سرع'), Lemma('pull.v.01.شد'), Lemma('pull.v.01.شق_طريقه_بالقوة'), Lemma('pull.v.01.شهر_مسدسا'), Lemma('pull.v.01.طول_معدنا'), Lemma('pull.v.01.عقد'), Lemma('pull.v.01.فرض'), Lemma('pull.v.01.كره'), Lemma('pull.v.01.لفت_الانتباه'), Lemma('pull.v.01.لوى_القوس')]
+word :draw
+def :cause to move by pulling
+
+
+Synset('big.s.12')
+big big
+unlikely sense detected - new sense:
+Synset('large.a.01')
+[Lemma('large.a.01.gran'), Lemma('large.a.01.grande')]
+
+[Lemma('large.a.01.كبِير')]
+word :big
+def :above average in size or number or quantity or magnitude or extent
+
+Synset('gloomy.s.02')
+gloomy blue
+unlikely sense detected - new sense:
+Synset('blue.s.01')
+[]
+
+[]
+word :blue
+def :of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky
+
+Synset('pisces.n.02')
+pisces fish
+unlikely sense detected - new sense:
+Synset('fish.n.01')
+[Lemma('fish.n.01.pez'), Lemma('fish.n.01.pisces')]
+
+[Lemma('fish.n.01.سمكة')]
+word :fish
+def :any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills
+
+
+
+
+
+
+Synset('hold.v.03')
+hold give
+unlikely sense detected - new sense:
+Synset('give.v.01')
+[Lemma('give.v.01.causar'), Lemma('give.v.01.dar')]
+
+[Lemma('give.v.01.أعْطى')]
+word :give
+def :cause to have, in the abstract sense or physical sense
+
+
+Synset('kite.n.03')
+kite kite
+[]
+
+[]
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+
+
+
+
+Synset('reserve.v.04')
+reserve hold
+unlikely sense detected - new sense:
+Synset('keep.v.01')
+[Lemma('keep.v.01.conservar'), Lemma('keep.v.01.mantener')]
+
+[Lemma('keep.v.01.أبقى'), Lemma('keep.v.01.أبْقى'), Lemma('keep.v.01.احتفظ'), Lemma('keep.v.01.احتوى'), Lemma('keep.v.01.أخفى'), Lemma('keep.v.01.استمر'), Lemma('keep.v.01.أعاد'), Lemma('keep.v.01.أعال'), Lemma('keep.v.01.اعتصم'), Lemma('keep.v.01.إعتكف_في'), Lemma('keep.v.01.إمتنع_عن'), Lemma('keep.v.01.أمسك'), Lemma('keep.v.01.أنفق'), Lemma('keep.v.01.بقي'), Lemma('keep.v.01.بقي_على'), Lemma('keep.v.01.حافظ'), Lemma('keep.v.01.حبس_النفس'), Lemma('keep.v.01.حجز'), Lemma('keep.v.01.حفظ'), Lemma('keep.v.01.حفِظ'), Lemma('keep.v.01.حمل'), Lemma('keep.v.01.دعم'), Lemma('keep.v.01.راعى'), Lemma('keep.v.01.ربى'), Lemma('keep.v.01.سيطر'), Lemma('keep.v.01.شغل'), Lemma('keep.v.01.صان'), Lemma('keep.v.01.صمد'), Lemma('keep.v.01.طعم'), Lemma('keep.v.01.ظل'), Lemma('keep.v.01.عقد'), Lemma('keep.v.01.قاوم'), Lemma('keep.v.01.قبض_على'), Lemma('keep.v.01.كبت'), Lemma('keep.v.01.كبح'), Lemma('keep.v.01.لزم'), Lemma('keep.v.01.مد_يده'), Lemma('keep.v.01.ملك'), Lemma('keep.v.01.واصل'), Lemma('keep.v.01.ودع'), Lemma('keep.v.01.وقى')]
+word :hold
+def :keep in a certain state, position, or activity; e.g., "keep clean"
+
+
+Synset('kite.n.03')
+kite kite
+[]
+
+[]
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+Synset('attract.v.01')
+attract pull
+unlikely sense detected - new sense:
+Synset('pull.v.01')
+[Lemma('pull.v.01.arrastrar'), Lemma('pull.v.01.estirar'), Lemma('pull.v.01.tirar')]
+
+[Lemma('pull.v.01.إجتذب_المشاهدين'), Lemma('pull.v.01.أخذ_جرعة_من_شراب'), Lemma('pull.v.01.أرهق_بالملاحقة'), Lemma('pull.v.01.أزاح'), Lemma('pull.v.01.استل'), Lemma('pull.v.01.استنتج'), Lemma('pull.v.01.استهوى'), Lemma('pull.v.01.اضطر'), Lemma('pull.v.01.أطلق'), Lemma('pull.v.01.أطلق_النار'), Lemma('pull.v.01.اغتصب'), Lemma('pull.v.01.اقتلع'), Lemma('pull.v.01.انتزع'), Lemma('pull.v.01.إنتزع_عنوة'), Lemma('pull.v.01.تجبر'), Lemma('pull.v.01.تقاضى'), Lemma('pull.v.01.تقدم_تدريجيا'), Lemma('pull.v.01.تلقى'), Lemma('pull.v.01.تناول'), Lemma('pull.v.01.توغل'), Lemma('pull.v.01.جذب'), Lemma('pull.v.01.جر'), Lemma('pull.v.01.جرّ'), Lemma('pull.v.01.جرى_سحب_يانصيب'), Lemma('pull.v.01.حرر_وصية'), Lemma('pull.v.01.خسر'), Lemma('pull.v.01.دفع_بالقوة'), Lemma('pull.v.01.ربح'), Lemma('pull.v.01.رسم'), Lemma('pull.v.01.سحب'), Lemma('pull.v.01.سرع'), Lemma('pull.v.01.شد'), Lemma('pull.v.01.شق_طريقه_بالقوة'), Lemma('pull.v.01.شهر_مسدسا'), Lemma('pull.v.01.طول_معدنا'), Lemma('pull.v.01.عقد'), Lemma('pull.v.01.فرض'), Lemma('pull.v.01.كره'), Lemma('pull.v.01.لفت_الانتباه'), Lemma('pull.v.01.لوى_القوس')]
+word :pull
+def :cause to move by pulling
+
+
+
+Synset('yard.n.08')
+yard yard
+unlikely sense detected - new sense:
+Synset('yard.n.01')
+[Lemma('yard.n.01.yarda')]
+
+[Lemma('yard.n.01.خُطْوَة'), Lemma('yard.n.01.يَارْدَة')]
+word :yard
+def :a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride
+
+
+
+Synset('wind.n.01')
+wind wind
+[Lemma('wind.n.01.aire'), Lemma('wind.n.01.viento')]
+
+[Lemma('wind.n.01.تيّار_هوائِي'), Lemma('wind.n.01.رِياح'), Lemma('wind.n.01.رِيْح'), Lemma('wind.n.01.هواء')]
+word :wind
+def :air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure
+
+Synset('float.v.01')
+float blow
+unlikely sense detected - new sense:
+Synset('blow.v.01')
+[Lemma('blow.v.01.soplar')]
+
+[]
+word :blow
+def :exhale hard
+
+
+
+
+Synset('kite.n.03')
+kite kite
+[]
+
+[]
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+Synset('bantam.s.01')
+bantam tiny
+unlikely sense detected - new sense:
+Synset('bantam.s.01')
+[]
+
+[]
+word :tiny
+def :very small
+
+
+Synset('travel.v.01')
+travel go
+unlikely sense detected - new sense:
+Synset('travel.v.01')
+[Lemma('travel.v.01.desplazarse'), Lemma('travel.v.01.ir'), Lemma('travel.v.01.moverse'), Lemma('travel.v.01.viajar')]
+
+[Lemma('travel.v.01.أثار'), Lemma('travel.v.01.أدى'), Lemma('travel.v.01.استقر'), Lemma('travel.v.01.استهلك'), Lemma('travel.v.01.أصبح'), Lemma('travel.v.01.اعتزم'), Lemma('travel.v.01.انطلق'), Lemma('travel.v.01.باع'), Lemma('travel.v.01.تجول'), Lemma('travel.v.01.تحرك'), Lemma('travel.v.01.تحرّك'), Lemma('travel.v.01.تنقل'), Lemma('travel.v.01.حدث'), Lemma('travel.v.01.خرج'), Lemma('travel.v.01.دار'), Lemma('travel.v.01.دفع_إلى_الأمام'), Lemma('travel.v.01.ذهب'), Lemma('travel.v.01.رحل'), Lemma('travel.v.01.زار'), Lemma('travel.v.01.ساعد_على'), Lemma('travel.v.01.سافر'), Lemma('travel.v.01.ضحك'), Lemma('travel.v.01.طاف'), Lemma('travel.v.01.عرف_ب'), Lemma('travel.v.01.غادر'), Lemma('travel.v.01.قال'), Lemma('travel.v.01.قدم_إقتراحا'), Lemma('travel.v.01.قنع'), Lemma('travel.v.01.لجأ'), Lemma('travel.v.01.لعب'), Lemma('travel.v.01.مشى'), Lemma('travel.v.01.مضى'), Lemma('travel.v.01.نزل')]
+word :go
+def :change location; move, travel, or proceed, also metaphorically
+
+
+
+
+
+
+Synset('watch.v.06')
+watch watch
+unlikely sense detected - new sense:
+Synset('watch.v.01')
+[Lemma('watch.v.01.mirar')]
+
+[Lemma('watch.v.01.ارتقب'), Lemma('watch.v.01.انتظر'), Lemma('watch.v.01.تأكد_من'), Lemma('watch.v.01.تنبه'), Lemma('watch.v.01.تهجد'), Lemma('watch.v.01.حذر'), Lemma('watch.v.01.حرس'), Lemma('watch.v.01.راقب'), Lemma('watch.v.01.سهر'), Lemma('watch.v.01.شاهد'), Lemma('watch.v.01.عنى'), Lemma('watch.v.01.كان_يقظا')]
+word :watch
+def :look attentively
+
+
+Synset('kite.n.03')
+kite kite
+[]
+
+[]
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+Synset('attract.v.01')
+attract pull
+unlikely sense detected - new sense:
+Synset('pull.v.01')
+[Lemma('pull.v.01.arrastrar'), Lemma('pull.v.01.estirar'), Lemma('pull.v.01.tirar')]
+
+[Lemma('pull.v.01.إجتذب_المشاهدين'), Lemma('pull.v.01.أخذ_جرعة_من_شراب'), Lemma('pull.v.01.أرهق_بالملاحقة'), Lemma('pull.v.01.أزاح'), Lemma('pull.v.01.استل'), Lemma('pull.v.01.استنتج'), Lemma('pull.v.01.استهوى'), Lemma('pull.v.01.اضطر'), Lemma('pull.v.01.أطلق'), Lemma('pull.v.01.أطلق_النار'), Lemma('pull.v.01.اغتصب'), Lemma('pull.v.01.اقتلع'), Lemma('pull.v.01.انتزع'), Lemma('pull.v.01.إنتزع_عنوة'), Lemma('pull.v.01.تجبر'), Lemma('pull.v.01.تقاضى'), Lemma('pull.v.01.تقدم_تدريجيا'), Lemma('pull.v.01.تلقى'), Lemma('pull.v.01.تناول'), Lemma('pull.v.01.توغل'), Lemma('pull.v.01.جذب'), Lemma('pull.v.01.جر'), Lemma('pull.v.01.جرّ'), Lemma('pull.v.01.جرى_سحب_يانصيب'), Lemma('pull.v.01.حرر_وصية'), Lemma('pull.v.01.خسر'), Lemma('pull.v.01.دفع_بالقوة'), Lemma('pull.v.01.ربح'), Lemma('pull.v.01.رسم'), Lemma('pull.v.01.سحب'), Lemma('pull.v.01.سرع'), Lemma('pull.v.01.شد'), Lemma('pull.v.01.شق_طريقه_بالقوة'), Lemma('pull.v.01.شهر_مسدسا'), Lemma('pull.v.01.طول_معدنا'), Lemma('pull.v.01.عقد'), Lemma('pull.v.01.فرض'), Lemma('pull.v.01.كره'), Lemma('pull.v.01.لفت_الانتباه'), Lemma('pull.v.01.لوى_القوس')]
+word :pull
+def :cause to move by pulling
+
+
+
+
+
+
+
+Synset('sky.n.01')
+sky sky
+[Lemma('sky.n.01.cielo')]
+
+[Lemma('sky.n.01.سماء')]
+word :sky
+def :the atmosphere and outer space as viewed from the earth
+
+
+
+
+
+Synset('kite.n.03')
+kite kite
+[]
+
+[]
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+Synset('flee.v.01')
+flee fly
+unlikely sense detected - new sense:
+Synset('fly.v.01')
+[Lemma('fly.v.01.volar')]
+
+[Lemma('fly.v.01.إخترق_مستعينا_بأجنحة'), Lemma('fly.v.01.إنطلق_بسرعة'), Lemma('fly.v.01.تبدد'), Lemma('fly.v.01.تلاشى'), Lemma('fly.v.01.جنح'), Lemma('fly.v.01.حلق'), Lemma('fly.v.01.حلّق'), Lemma('fly.v.01.ساعده_على_الطيران'), Lemma('fly.v.01.سافر'), Lemma('fly.v.01.سدد_الضربات'), Lemma('fly.v.01.سقط_طائرة'), Lemma('fly.v.01.شق_طريق_بالطيران'), Lemma('fly.v.01.طار'), Lemma('fly.v.01.عبر'), Lemma('fly.v.01.فر'), Lemma('fly.v.01.هرب')]
+word :fly
+def :travel through the air; be airborne
+
+
+
+
+
+Synset('cloud.n.03')
+cloud cloud
+[]
+
+[]
+word :cloud
+def :out of touch with reality
+
+
+
+
+
+Synset('chase.n.03')
+chase chase
+[]
+
+[]
+word :chase
+def :a rectangular metal frame used in letterpress printing to hold together the pages or columns of composed type that are printed at one time
+
+
+
+
+
+Synset('kite.n.03')
+kite kite
+[]
+
+[]
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+Synset('scat.v.01')
+scat run
+unlikely sense detected - new sense:
+Synset('run.v.01')
+[Lemma('run.v.01.correr')]
+
+[Lemma('run.v.01.إجتاز_بسرعة'), Lemma('run.v.01.أدار'), Lemma('run.v.01.أذاب'), Lemma('run.v.01.انتشر'), Lemma('run.v.01.انزلق'), Lemma('run.v.01.أنسل'), Lemma('run.v.01.أيد_ترشيح'), Lemma('run.v.01.بدأ_العدو'), Lemma('run.v.01.ترشح'), Lemma('run.v.01.تسرع'), Lemma('run.v.01.تصفح_بسرعة'), Lemma('run.v.01.تكرر'), Lemma('run.v.01.جري'), Lemma('run.v.01.جرى'), Lemma('run.v.01.حكم'), Lemma('run.v.01.خاض_معركة'), Lemma('run.v.01.دخل'), Lemma('run.v.01.رسم_خطا'), Lemma('run.v.01.ركض'), Lemma('run.v.01.سال'), Lemma('run.v.01.سجل_نقطة_في_البيسبول'), Lemma('run.v.01.سحب'), Lemma('run.v.01.سوق_بسرعة'), Lemma('run.v.01.شغل'), Lemma('run.v.01.صفى'), Lemma('run.v.01.صنف_الأوراق'), Lemma('run.v.01.طارد'), Lemma('run.v.01.طبع'), Lemma('run.v.01.ظل_نافذ_المفعول'), Lemma('run.v.01.عبر'), Lemma('run.v.01.عجل'), Lemma('run.v.01.عدا'), Lemma('run.v.01.قاد'), Lemma('run.v.01.قاد_السيارة'), Lemma('run.v.01.نشر'), Lemma('run.v.01.نما_بسرعة'), Lemma('run.v.01.هرول'), Lemma('run.v.01.هرْول'), Lemma('run.v.01.وقع')]
+word :run
+def :move fast by using one's feet, with one foot off the ground at any given time
+
+
+
+
+
+Synset('slither.v.01')
+slither slither
+[Lemma('slither.v.01.deslizar'), Lemma('slither.v.01.deslizarse'), Lemma('slither.v.01.resbalar'), Lemma('slither.v.01.resbalarse')]
+
+[Lemma('slither.v.01.اختفى'), Lemma('slither.v.01.انزلق'), Lemma('slither.v.01.أنسل_خلسة'), Lemma('slither.v.01.تزل_قدمه'), Lemma('slither.v.01.تمهّل'), Lemma('slither.v.01.دبّ'), Lemma('slither.v.01.زلق'), Lemma('slither.v.01.سعى_كالحية'), Lemma('slither.v.01.نزل_منزلقا')]
+word :slither
+def :to pass or move unobtrusively or smoothly
+
+
+
+
+Synset('menagerie.n.02')
+menagerie zoo
+unlikely sense detected - new sense:
+Synset('menagerie.n.02')
+[Lemma('menagerie.n.02.jardín_zoológico')]
+
+[]
+word :zoo
+def :the facility where wild animals are housed for exhibition
+
+
+
+
+
+
+Synset('get.v.19')
+get catch
+unlikely sense detected - new sense:
+Synset('catch.v.01')
+[Lemma('catch.v.01.coger'), Lemma('catch.v.01.pescar'), Lemma('catch.v.01.pillar')]
+
+[Lemma('catch.v.01.ضبط'), Lemma('catch.v.01.فاجأ'), Lemma('catch.v.01.مسك')]
+word :catch
+def :discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state
+
+
+
+
+Synset('kite.n.03')
+kite kite
+[]
+
+[]
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('state.v.01')
+[Lemma('state.v.01.decir'), Lemma('state.v.01.manifestar')]
+
+[Lemma('state.v.01.أخبر'), Lemma('state.v.01.أخْبر'), Lemma('state.v.01.اعترف'), Lemma('state.v.01.اعتقد'), Lemma('state.v.01.أعلن'), Lemma('state.v.01.ألقى_خطابا'), Lemma('state.v.01.أوْرد'), Lemma('state.v.01.بسط'), Lemma('state.v.01.تكلم'), Lemma('state.v.01.روى'), Lemma('state.v.01.زعم'), Lemma('state.v.01.صاغ'), Lemma('state.v.01.صرح'), Lemma('state.v.01.صرّح'), Lemma('state.v.01.عرض'), Lemma('state.v.01.عين'), Lemma('state.v.01.قال'), Lemma('state.v.01.قرر'), Lemma('state.v.01.لفظ'), Lemma('state.v.01.نطق'), Lemma('state.v.01.وضح')]
+word :say
+def :express in words
+
+
+
+
+
+Synset('tall.a.01')
+tall tall
+[Lemma('tall.a.01.alto')]
+
+[Lemma('tall.a.01.عالِي')]
+word :tall
+def :great in vertical dimension; high in stature
+
+
+
+Synset('oral_sex.n.01')
+oral_sex head
+unlikely sense detected - new sense:
+Synset('head.n.01')
+[Lemma('head.n.01.cabeza')]
+
+[Lemma('head.n.01.رأْس')]
+word :head
+def :the upper part of the human body or the front part of the body in animals; contains the face and brains
+
+
+
+
+Synset('high.s.05')
+high high
+unlikely sense detected - new sense:
+Synset('high.a.01')
+[Lemma('high.a.01.alto')]
+
+[]
+word :high
+def :greater than normal in degree or intensity or amount
+
+
+
+Synset('cloud.n.03')
+cloud cloud
+[]
+
+[]
+word :cloud
+def :out of touch with reality
+
+
+
+Synset('help.v.01')
+help help
+[Lemma('help.v.01.ayudar')]
+
+[Lemma('help.v.01.أعان'), Lemma('help.v.01.ساعد'), Lemma('help.v.01.عاون')]
+word :help
+def :give help or assistance; be of service
+
+
+
+
+Synset('shout.v.02')
+shout yell
+unlikely sense detected - new sense:
+Synset('shout.v.02')
+[Lemma('shout.v.02.gritar'), Lemma('shout.v.02.llamar')]
+
+[Lemma('shout.v.02.أثار_ضجة'), Lemma('shout.v.02.إجتذب_الطريدة'), Lemma('shout.v.02.احتج'), Lemma('shout.v.02.أذاع'), Lemma('shout.v.02.استدعى'), Lemma('shout.v.02.استرجع'), Lemma('shout.v.02.استرد'), Lemma('shout.v.02.استنجد'), Lemma('shout.v.02.أطلق_بنبرة_صارخة'), Lemma('shout.v.02.أعلن_عن'), Lemma('shout.v.02.اقتضى'), Lemma('shout.v.02.التمس'), Lemma('shout.v.02.بكى'), Lemma('shout.v.02.تباكى'), Lemma('shout.v.02.تطلب'), Lemma('shout.v.02.تلفن'), Lemma('shout.v.02.حدث_أثرا_مذهلا'), Lemma('shout.v.02.دعا'), Lemma('shout.v.02.زعق'), Lemma('shout.v.02.سأل'), Lemma('shout.v.02.شكا'), Lemma('shout.v.02.صاح'), Lemma('shout.v.02.صرخ'), Lemma('shout.v.02.صرخ_من_الألم'), Lemma('shout.v.02.ضحك_حتى_البكاء'), Lemma('shout.v.02.عبر_عن_شيء_بالصراخ'), Lemma('shout.v.02.عج'), Lemma('shout.v.02.عرج'), Lemma('shout.v.02.عوى'), Lemma('shout.v.02.قال_بصوت_عال'), Lemma('shout.v.02.قهقه'), Lemma('shout.v.02.لقب'), Lemma('shout.v.02.مكالمة'), Lemma('shout.v.02.نادى'), Lemma('shout.v.02.نادى_بسخرية'), Lemma('shout.v.02.نادى_على'), Lemma('shout.v.02.نبح'), Lemma('shout.v.02.نعب'), Lemma('shout.v.02.هتف'), Lemma('shout.v.02.هدر')]
+word :yell
+def :utter a sudden loud cry
+
+Synset('help.v.01')
+help help
+[Lemma('help.v.01.ayudar')]
+
+[Lemma('help.v.01.أعان'), Lemma('help.v.01.ساعد'), Lemma('help.v.01.عاون')]
+word :help
+def :give help or assistance; be of service
+
+
+Synset('help.v.01')
+help help
+[Lemma('help.v.01.ayudar')]
+
+[Lemma('help.v.01.أعان'), Lemma('help.v.01.ساعد'), Lemma('help.v.01.عاون')]
+word :help
+def :give help or assistance; be of service
+
+
+
+
+
+
+
+Synset('high.s.05')
+high high
+unlikely sense detected - new sense:
+Synset('high.a.01')
+[Lemma('high.a.01.alto')]
+
+[]
+word :high
+def :greater than normal in degree or intensity or amount
+
+
+
+
+Synset('reach.v.07')
+reach reach
+unlikely sense detected - new sense:
+Synset('reach.v.01')
+[Lemma('reach.v.01.alcanzar'), Lemma('reach.v.01.ganar')]
+
+[Lemma('reach.v.01.إتخذ_قرارا'), Lemma('reach.v.01.اتصل'), Lemma('reach.v.01.أحدث'), Lemma('reach.v.01.أحرز'), Lemma('reach.v.01.أحرز_هدفا'), Lemma('reach.v.01.ارتطم'), Lemma('reach.v.01.ازداد'), Lemma('reach.v.01.أسعد'), Lemma('reach.v.01.أصاب'), Lemma('reach.v.01.أصاب_الهدف'), Lemma('reach.v.01.أضرم'), Lemma('reach.v.01.اعتبر'), Lemma('reach.v.01.اكتشف'), Lemma('reach.v.01.أكرهه_على'), Lemma('reach.v.01.امتد'), Lemma('reach.v.01.أنتج'), Lemma('reach.v.01.إنتصر'), Lemma('reach.v.01.اندفع'), Lemma('reach.v.01.إندفع_نحو'), Lemma('reach.v.01.بدأ_عملا'), Lemma('reach.v.01.بسط'), Lemma('reach.v.01.بلغ'), Lemma('reach.v.01.بنى'), Lemma('reach.v.01.تأول'), Lemma('reach.v.01.تجبر'), Lemma('reach.v.01.تحصل'), Lemma('reach.v.01.تصرف'), Lemma('reach.v.01.تملق'), Lemma('reach.v.01.تناول'), Lemma('reach.v.01.توافق_مع'), Lemma('reach.v.01.جعل'), Lemma('reach.v.01.حضر'), Lemma('reach.v.01.حقق'), Lemma('reach.v.01.حقق_إنتصار'), Lemma('reach.v.01.حول'), Lemma('reach.v.01.خلق'), Lemma('reach.v.01.ربح'), Lemma('reach.v.01.سدد'), Lemma('reach.v.01.شن'), Lemma('reach.v.01.صد'), Lemma('reach.v.01.صدم'), Lemma('reach.v.01.صنع'), Lemma('reach.v.01.ضرب'), Lemma('reach.v.01.عوض'), Lemma('reach.v.01.عين'), Lemma('reach.v.01.غلق'), Lemma('reach.v.01.فاز'), Lemma('reach.v.01.فعل'), Lemma('reach.v.01.قدم'), Lemma('reach.v.01.كان_في_متناول_اليد'), Lemma('reach.v.01.كسب'), Lemma('reach.v.01.لاقى_نجاحا'), Lemma('reach.v.01.مد_يده_للوصول_ل'), Lemma('reach.v.01.نال'), Lemma('reach.v.01.نجح'), Lemma('reach.v.01.نجز'), Lemma('reach.v.01.هاجم'), Lemma('reach.v.01.هيأ'), Lemma('reach.v.01.وجد'), Lemma('reach.v.01.وصل'), Lemma('reach.v.01.وَصَلَ'), Lemma('reach.v.01.وفق_إلى')]
+word :reach
+def :reach a destination, either real or abstract
+
+
+
+
+Synset('order.v.01')
+order tell
+unlikely sense detected - new sense:
+Synset('state.v.01')
+[Lemma('state.v.01.decir'), Lemma('state.v.01.manifestar')]
+
+[Lemma('state.v.01.أخبر'), Lemma('state.v.01.أخْبر'), Lemma('state.v.01.اعترف'), Lemma('state.v.01.اعتقد'), Lemma('state.v.01.أعلن'), Lemma('state.v.01.ألقى_خطابا'), Lemma('state.v.01.أوْرد'), Lemma('state.v.01.بسط'), Lemma('state.v.01.تكلم'), Lemma('state.v.01.روى'), Lemma('state.v.01.زعم'), Lemma('state.v.01.صاغ'), Lemma('state.v.01.صرح'), Lemma('state.v.01.صرّح'), Lemma('state.v.01.عرض'), Lemma('state.v.01.عين'), Lemma('state.v.01.قال'), Lemma('state.v.01.قرر'), Lemma('state.v.01.لفظ'), Lemma('state.v.01.نطق'), Lemma('state.v.01.وضح')]
+word :tell
+def :express in words
+
+
+
+
+
+
+
+Synset('idea.n.03')
+idea idea
+[Lemma('idea.n.03.idea')]
+
+[Lemma('idea.n.03.رأْي'), Lemma('idea.n.03.فِكْرة')]
+word :idea
+def :a personal view
+
+
+Synset('take.v.35')
+take take
+unlikely sense detected - new sense:
+Synset('take.v.01')
+[Lemma('take.v.01.tomar')]
+
+[]
+word :take
+def :carry out
+
+
+
+Synset('hat.n.01')
+hat hat
+[Lemma('hat.n.01.sombrero')]
+
+[Lemma('hat.n.01.غِطاء_الرّأْس'), Lemma('hat.n.01.قُبّعة')]
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+
+
+Synset('reserve.v.04')
+reserve hold
+unlikely sense detected - new sense:
+Synset('keep.v.01')
+[Lemma('keep.v.01.conservar'), Lemma('keep.v.01.mantener')]
+
+[Lemma('keep.v.01.أبقى'), Lemma('keep.v.01.أبْقى'), Lemma('keep.v.01.احتفظ'), Lemma('keep.v.01.احتوى'), Lemma('keep.v.01.أخفى'), Lemma('keep.v.01.استمر'), Lemma('keep.v.01.أعاد'), Lemma('keep.v.01.أعال'), Lemma('keep.v.01.اعتصم'), Lemma('keep.v.01.إعتكف_في'), Lemma('keep.v.01.إمتنع_عن'), Lemma('keep.v.01.أمسك'), Lemma('keep.v.01.أنفق'), Lemma('keep.v.01.بقي'), Lemma('keep.v.01.بقي_على'), Lemma('keep.v.01.حافظ'), Lemma('keep.v.01.حبس_النفس'), Lemma('keep.v.01.حجز'), Lemma('keep.v.01.حفظ'), Lemma('keep.v.01.حفِظ'), Lemma('keep.v.01.حمل'), Lemma('keep.v.01.دعم'), Lemma('keep.v.01.راعى'), Lemma('keep.v.01.ربى'), Lemma('keep.v.01.سيطر'), Lemma('keep.v.01.شغل'), Lemma('keep.v.01.صان'), Lemma('keep.v.01.صمد'), Lemma('keep.v.01.طعم'), Lemma('keep.v.01.ظل'), Lemma('keep.v.01.عقد'), Lemma('keep.v.01.قاوم'), Lemma('keep.v.01.قبض_على'), Lemma('keep.v.01.كبت'), Lemma('keep.v.01.كبح'), Lemma('keep.v.01.لزم'), Lemma('keep.v.01.مد_يده'), Lemma('keep.v.01.ملك'), Lemma('keep.v.01.واصل'), Lemma('keep.v.01.ودع'), Lemma('keep.v.01.وقى')]
+word :hold
+def :keep in a certain state, position, or activity; e.g., "keep clean"
+
+
+
+
+
+Synset('displace.v.03')
+displace can
+unlikely sense detected - new sense:
+Synset('can.v.01')
+[]
+
+[Lemma('can.v.01.استطاع'), Lemma('can.v.01.أوقف'), Lemma('can.v.01.بيض_بالقصدير'), Lemma('can.v.01.سجن'), Lemma('can.v.01.طلى_بالقصدير'), Lemma('can.v.01.علب'), Lemma('can.v.01.علّب'), Lemma('can.v.01.قدر'), Lemma('can.v.01.قصدر'), Lemma('can.v.01.مكن'), Lemma('can.v.01.وضع_في_علبة')]
+word :can
+def :preserve in a can or tin
+
+
+Synset('decrease.v.01')
+decrease fall
+unlikely sense detected - new sense:
+Synset('fall.v.01')
+[Lemma('fall.v.01.caer')]
+
+[Lemma('fall.v.01.أخمد'), Lemma('fall.v.01.أصبح'), Lemma('fall.v.01.انهار'), Lemma('fall.v.01.انهزم'), Lemma('fall.v.01.تدلى'), Lemma('fall.v.01.تدنى'), Lemma('fall.v.01.تساقط'), Lemma('fall.v.01.تلاشى'), Lemma('fall.v.01.خر'), Lemma('fall.v.01.سقط'), Lemma('fall.v.01.سكن'), Lemma('fall.v.01.سلسل'), Lemma('fall.v.01.شرع_بهمة_و_نشاط'), Lemma('fall.v.01.ضم'), Lemma('fall.v.01.هبط'), Lemma('fall.v.01.وقع'), Lemma('fall.v.01.ولد')]
+word :fall
+def :descend in free fall under the influence of gravity
+
+
+
+Synset('hat.n.01')
+hat hat
+[Lemma('hat.n.01.sombrero')]
+
+[Lemma('hat.n.01.غِطاء_الرّأْس'), Lemma('hat.n.01.قُبّعة')]
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+
+
+
+
+
+Synset('scar.v.01')
+scar scar
+[Lemma('scar.v.01.marcar'), Lemma('scar.v.01.señalar')]
+
+[]
+word :scar
+def :mark with a scar
+
+
+
+Synset('supporter.n.01')
+supporter friend
+unlikely sense detected - new sense:
+Synset('friend.n.01')
+[Lemma('friend.n.01.amigo')]
+
+[Lemma('friend.n.01.رفِيق'), Lemma('friend.n.01.صاحِب'), Lemma('friend.n.01.صدِيق')]
+word :friend
+def :a person you know well and regard with affection and trust
+
+
+
+
+
+
+
+Synset('derail.v.02')
+derail jump
+unlikely sense detected - new sense:
+Synset('jump.v.01')
+[Lemma('jump.v.01.saltar')]
+
+[Lemma('jump.v.01.أحاط'), Lemma('jump.v.01.ارتفع'), Lemma('jump.v.01.استعجل'), Lemma('jump.v.01.استولى'), Lemma('jump.v.01.أشتم'), Lemma('jump.v.01.أطلق_سراح'), Lemma('jump.v.01.انبثق'), Lemma('jump.v.01.إنتقل_بسرعة'), Lemma('jump.v.01.انحرف'), Lemma('jump.v.01.انطلق'), Lemma('jump.v.01.إنفجر_ضاحكا'), Lemma('jump.v.01.برز'), Lemma('jump.v.01.تجاوز'), Lemma('jump.v.01.ترك_فجأة'), Lemma('jump.v.01.جعله_يثب'), Lemma('jump.v.01.حمله_على_الوثب'), Lemma('jump.v.01.رفع_منزلته'), Lemma('jump.v.01.زاد'), Lemma('jump.v.01.شق'), Lemma('jump.v.01.طار_فرحا'), Lemma('jump.v.01.طفر'), Lemma('jump.v.01.ظهر'), Lemma('jump.v.01.عبر'), Lemma('jump.v.01.غادر'), Lemma('jump.v.01.فجر_لغما'), Lemma('jump.v.01.فر_من'), Lemma('jump.v.01.قفز'), Lemma('jump.v.01.نبت'), Lemma('jump.v.01.نزع'), Lemma('jump.v.01.نطط'), Lemma('jump.v.01.نهض_فجأة'), Lemma('jump.v.01.هاجم'), Lemma('jump.v.01.وافق'), Lemma('jump.v.01.وثب'), Lemma('jump.v.01.وَثَبَ'), Lemma('jump.v.01.وجه_نقدا_لاذعا')]
+word :jump
+def :move forward by leaps and bounds
+
+
+
+Synset('hat.n.01')
+hat hat
+[Lemma('hat.n.01.sombrero')]
+
+[Lemma('hat.n.01.غِطاء_الرّأْس'), Lemma('hat.n.01.قُبّعة')]
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+
+
+
+
+Synset('supporter.n.01')
+supporter friend
+unlikely sense detected - new sense:
+Synset('friend.n.01')
+[Lemma('friend.n.01.amigo')]
+
+[Lemma('friend.n.01.رفِيق'), Lemma('friend.n.01.صاحِب'), Lemma('friend.n.01.صدِيق')]
+word :friend
+def :a person you know well and regard with affection and trust
+
+Synset('cheer.n.01')
+cheer cheer
+[Lemma('cheer.n.01.ovación'), Lemma('cheer.n.01.vítor')]
+
+[Lemma('cheer.n.01.تهْلِيل'), Lemma('cheer.n.01.هِتاف')]
+word :cheer
+def :a cry or shout of approval
+
+
+
+
+Synset('happy.a.01')
+happy happy
+[Lemma('happy.a.01.contento'), Lemma('happy.a.01.feliz')]
+
+[Lemma('happy.a.01.سعِيد')]
+word :happy
+def :enjoying or showing or marked by joy or pleasure
+
+
+
+
+Synset('scar.v.01')
+scar scar
+[Lemma('scar.v.01.marcar'), Lemma('scar.v.01.señalar')]
+
+[]
+word :scar
+def :mark with a scar
+
+
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('state.v.01')
+[Lemma('state.v.01.decir'), Lemma('state.v.01.manifestar')]
+
+[Lemma('state.v.01.أخبر'), Lemma('state.v.01.أخْبر'), Lemma('state.v.01.اعترف'), Lemma('state.v.01.اعتقد'), Lemma('state.v.01.أعلن'), Lemma('state.v.01.ألقى_خطابا'), Lemma('state.v.01.أوْرد'), Lemma('state.v.01.بسط'), Lemma('state.v.01.تكلم'), Lemma('state.v.01.روى'), Lemma('state.v.01.زعم'), Lemma('state.v.01.صاغ'), Lemma('state.v.01.صرح'), Lemma('state.v.01.صرّح'), Lemma('state.v.01.عرض'), Lemma('state.v.01.عين'), Lemma('state.v.01.قال'), Lemma('state.v.01.قرر'), Lemma('state.v.01.لفظ'), Lemma('state.v.01.نطق'), Lemma('state.v.01.وضح')]
+word :say
+def :express in words
+
+
+
+Synset('save.v.05')
+save save
+unlikely sense detected - new sense:
+Synset('salvage.v.01')
+[Lemma('salvage.v.01.liberar'), Lemma('salvage.v.01.rescatar'), Lemma('salvage.v.01.salvar')]
+
+[Lemma('salvage.v.01.أراح'), Lemma('salvage.v.01.أزال'), Lemma('salvage.v.01.أسعف'), Lemma('salvage.v.01.أسْعف'), Lemma('salvage.v.01.اقتصد'), Lemma('salvage.v.01.أنْجد'), Lemma('salvage.v.01.أنجى'), Lemma('salvage.v.01.أنْقد'), Lemma('salvage.v.01.أنقذ_سفينة'), Lemma('salvage.v.01.برز'), Lemma('salvage.v.01.تجنب'), Lemma('salvage.v.01.جسم'), Lemma('salvage.v.01.حفظ'), Lemma('salvage.v.01.خزن'), Lemma('salvage.v.01.خفف'), Lemma('salvage.v.01.خفف_من_رتابة_شىء_ما'), Lemma('salvage.v.01.خلص'), Lemma('salvage.v.01.خلص_ينقذ'), Lemma('salvage.v.01.دخر'), Lemma('salvage.v.01.دهن_بالمرهم'), Lemma('salvage.v.01.رد_الكرة'), Lemma('salvage.v.01.رفع_الحصار'), Lemma('salvage.v.01.ساعد'), Lemma('salvage.v.01.سكن'), Lemma('salvage.v.01.قطع_الكرة'), Lemma('salvage.v.01.لطف'), Lemma('salvage.v.01.نجد'), Lemma('salvage.v.01.نقذ'), Lemma('salvage.v.01.هدأ'), Lemma('salvage.v.01.وفر')]
+word :save
+def :save from ruin, destruction, or harm
+
+
+
+
+Synset('hat.n.01')
+hat hat
+[Lemma('hat.n.01.sombrero')]
+
+[Lemma('hat.n.01.غِطاء_الرّأْس'), Lemma('hat.n.01.قُبّعة')]
+word :hat
+def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+
+
+
+

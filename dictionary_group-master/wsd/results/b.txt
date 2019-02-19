@@ -1,0 +1,680 @@
+
+
+
+
+
+Synset('interfering.s.01')
+interfering busy
+unlikely sense detected - new sense:
+Synset('interfering.s.01')
+word :busy
+def :intrusive in a meddling or offensive manner
+
+
+
+
+
+Synset('toy.v.02')
+toy play
+unlikely sense detected - new sense:
+Synset('play.v.35')
+word :play
+def :exhaust by allowing to pull on the line
+
+
+
+
+
+Synset('menagerie.n.02')
+menagerie zoo
+unlikely sense detected - new sense:
+Synset('menagerie.n.02')
+word :zoo
+def :the facility where wild animals are housed for exhibition
+
+
+None
+
+
+
+Synset('make.v.35')
+make make
+unlikely sense detected - new sense:
+Synset('make.v.42')
+word :make
+def :represent fictitiously, as in a play, or pretend to be or act like
+
+
+Synset('necessitate.v.01')
+necessitate ask
+unlikely sense detected - new sense:
+Synset('necessitate.v.01')
+word :ask
+def :require as useful, just, or proper
+
+
+Synset('displace.v.03')
+displace can
+unlikely sense detected - new sense:
+Synset('displace.v.03')
+word :can
+def :terminate the employment of; discharge from an office or position
+
+
+
+
+Synset('toy.v.02')
+toy play
+unlikely sense detected - new sense:
+Synset('play.v.35')
+word :play
+def :exhaust by allowing to pull on the line
+
+
+
+
+Synset('show.v.04')
+show show
+word :show
+def :make visible or noticeable
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+
+Synset('wish.v.02')
+wish like
+unlikely sense detected - new sense:
+Synset('wish.v.02')
+word :like
+def :prefer or wish to do something
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('order.v.01')
+word :say
+def :give instructions to or direct somebody to do something with authority
+
+
+
+
+
+Synset('fun.n.02')
+fun fun
+word :fun
+def :verbal wit or mockery (often at another's expense but not to be taken seriously)
+
+Synset('fly.v.10')
+fly fly
+unlikely sense detected - new sense:
+Synset('flee.v.01')
+word :fly
+def :run away quickly
+
+
+
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('order.v.01')
+word :say
+def :give instructions to or direct somebody to do something with authority
+
+Synset('thanks.n.02')
+thanks thank
+word :thank
+def :with the help of or owing to
+
+
+
+
+
+
+
+Synset('attract.v.01')
+attract draw
+unlikely sense detected - new sense:
+Synset('attract.v.01')
+word :draw
+def :direct toward itself or oneself by means of some psychological power or physical attributes
+
+
+Synset('big.s.12')
+big big
+unlikely sense detected - new sense:
+Synset('big.s.12')
+word :big
+def :given or giving freely
+
+Synset('gloomy.s.02')
+gloomy blue
+unlikely sense detected - new sense:
+Synset('gloomy.s.02')
+word :blue
+def :filled with melancholy and despondency
+
+Synset('pisces.n.02')
+pisces fish
+unlikely sense detected - new sense:
+Synset('pisces.n.02')
+word :fish
+def :(astrology) a person who is born while the sun is in Pisces
+
+
+
+
+
+
+Synset('hold.v.03')
+hold give
+unlikely sense detected - new sense:
+Synset('hold.v.03')
+word :give
+def :organize or be responsible for
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+
+Synset('activated.s.02')
+activated excited
+word :excited
+def :(of e.g. a molecule) made reactive or more reactive
+
+
+
+Synset('reserve.v.04')
+reserve hold
+unlikely sense detected - new sense:
+Synset('reserve.v.04')
+word :hold
+def :arrange for and reserve (something for someone else) in advance
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+Synset('attract.v.01')
+attract pull
+unlikely sense detected - new sense:
+Synset('attract.v.01')
+word :pull
+def :direct toward itself or oneself by means of some psychological power or physical attributes
+
+
+
+Synset('yard.n.08')
+yard yard
+unlikely sense detected - new sense:
+Synset('yard.n.08')
+word :yard
+def :a long horizontal spar tapered at the end and used to support and spread a square sail or lateen
+
+
+
+Synset('wind.n.01')
+wind wind
+word :wind
+def :air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure
+
+Synset('float.v.01')
+float blow
+unlikely sense detected - new sense:
+Synset('float.v.01')
+word :blow
+def :be in motion due to some air or water current
+
+
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+Synset('bantam.s.01')
+bantam tiny
+unlikely sense detected - new sense:
+Synset('bantam.s.01')
+word :tiny
+def :very small
+
+
+Synset('travel.v.01')
+travel go
+unlikely sense detected - new sense:
+Synset('travel.v.01')
+word :go
+def :change location; move, travel, or proceed, also metaphorically
+
+
+
+
+
+
+Synset('watch.v.06')
+watch watch
+unlikely sense detected - new sense:
+Synset('watch.v.06')
+word :watch
+def :observe or determine by looking
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+Synset('attract.v.01')
+attract pull
+unlikely sense detected - new sense:
+Synset('attract.v.01')
+word :pull
+def :direct toward itself or oneself by means of some psychological power or physical attributes
+
+
+
+
+
+
+
+Synset('sky.n.01')
+sky sky
+word :sky
+def :the atmosphere and outer space as viewed from the earth
+
+
+
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+Synset('fly.v.10')
+fly fly
+unlikely sense detected - new sense:
+Synset('flee.v.01')
+word :fly
+def :run away quickly
+
+
+
+
+
+Synset('cloud.n.03')
+cloud cloud
+word :cloud
+def :out of touch with reality
+
+
+
+
+
+Synset('pursuit.n.01')
+pursuit chase
+unlikely sense detected - new sense:
+Synset('chase.n.03')
+word :chase
+def :a rectangular metal frame used in letterpress printing to hold together the pages or columns of composed type that are printed at one time
+
+
+
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+Synset('scat.v.01')
+scat run
+unlikely sense detected - new sense:
+Synset('scat.v.01')
+word :run
+def :flee; take to one's heels; cut and run
+
+
+
+
+
+Synset('slither.v.01')
+slither slither
+word :slither
+def :to pass or move unobtrusively or smoothly
+
+
+
+
+Synset('menagerie.n.02')
+menagerie zoo
+unlikely sense detected - new sense:
+Synset('menagerie.n.02')
+word :zoo
+def :the facility where wild animals are housed for exhibition
+
+
+
+
+
+
+Synset('get.v.19')
+get catch
+unlikely sense detected - new sense:
+Synset('get.v.19')
+word :catch
+def :reach with a blow or hit in a particular spot
+
+
+
+
+Synset('kite.n.03')
+kite kite
+word :kite
+def :plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+
+
+
+
+
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('order.v.01')
+word :say
+def :give instructions to or direct somebody to do something with authority
+
+
+
+
+
+Synset('tall.a.01')
+tall tall
+word :tall
+def :great in vertical dimension; high in stature
+
+
+None
+
+Synset('oral_sex.n.01')
+oral_sex head
+unlikely sense detected - new sense:
+Synset('oral_sex.n.01')
+word :head
+def :oral stimulation of the genitals
+
+
+
+
+Synset('high.s.05')
+high high
+unlikely sense detected - new sense:
+Synset('high.s.05')
+word :high
+def :happy and excited and energetic
+
+
+
+Synset('cloud.n.03')
+cloud cloud
+word :cloud
+def :out of touch with reality
+
+
+
+Synset('help_oneself.v.01')
+help_oneself help
+unlikely sense detected - new sense:
+Synset('help.v.01')
+word :help
+def :give help or assistance; be of service
+
+
+
+
+Synset('yell.v.02')
+yell yell
+word :yell
+def :utter or declare in a very loud voice
+
+Synset('help_oneself.v.01')
+help_oneself help
+unlikely sense detected - new sense:
+Synset('help.v.01')
+word :help
+def :give help or assistance; be of service
+
+
+Synset('help_oneself.v.01')
+help_oneself help
+unlikely sense detected - new sense:
+Synset('help.v.01')
+word :help
+def :give help or assistance; be of service
+
+
+
+
+
+
+
+Synset('high.s.05')
+high high
+unlikely sense detected - new sense:
+Synset('high.s.05')
+word :high
+def :happy and excited and energetic
+
+
+
+
+Synset('reach.v.07')
+reach reach
+unlikely sense detected - new sense:
+Synset('reach.v.07')
+word :reach
+def :reach a goal, e.g., "make the first team"
+
+
+
+
+Synset('order.v.01')
+order tell
+unlikely sense detected - new sense:
+Synset('order.v.01')
+word :tell
+def :give instructions to or direct somebody to do something with authority
+
+
+
+
+
+
+
+Synset('idea.n.03')
+idea idea
+word :idea
+def :a personal view
+
+
+Synset('remove.v.01')
+remove take
+unlikely sense detected - new sense:
+Synset('take.v.35')
+word :take
+def :have sex with; archaic use
+
+
+
+Synset('hat.n.02')
+hat hat
+word :hat
+def :an informal term for a person's role
+
+
+Synset('reserve.v.04')
+reserve hold
+unlikely sense detected - new sense:
+Synset('reserve.v.04')
+word :hold
+def :arrange for and reserve (something for someone else) in advance
+
+
+
+
+
+Synset('displace.v.03')
+displace can
+unlikely sense detected - new sense:
+Synset('displace.v.03')
+word :can
+def :terminate the employment of; discharge from an office or position
+
+
+Synset('decrease.v.01')
+decrease fall
+unlikely sense detected - new sense:
+Synset('decrease.v.01')
+word :fall
+def :decrease in size, extent, or range
+
+
+
+Synset('hat.n.02')
+hat hat
+word :hat
+def :an informal term for a person's role
+
+
+
+
+
+Synset('scar.v.01')
+scar scar
+word :scar
+def :mark with a scar
+
+
+
+Synset('supporter.n.01')
+supporter friend
+unlikely sense detected - new sense:
+Synset('supporter.n.01')
+word :friend
+def :a person who backs a politician or a team etc.
+
+
+
+
+
+
+
+Synset('derail.v.02')
+derail jump
+unlikely sense detected - new sense:
+Synset('derail.v.02')
+word :jump
+def :run off or leave the rails
+
+
+
+Synset('hat.n.02')
+hat hat
+word :hat
+def :an informal term for a person's role
+
+
+
+
+Synset('supporter.n.01')
+supporter friend
+unlikely sense detected - new sense:
+Synset('supporter.n.01')
+word :friend
+def :a person who backs a politician or a team etc.
+
+Synset('cheer.n.01')
+cheer cheer
+word :cheer
+def :a cry or shout of approval
+
+
+
+
+Synset('happy.a.01')
+happy happy
+word :happy
+def :enjoying or showing or marked by joy or pleasure
+
+
+
+
+Synset('scar.v.01')
+scar scar
+word :scar
+def :mark with a scar
+
+
+
+Synset('order.v.01')
+order say
+unlikely sense detected - new sense:
+Synset('order.v.01')
+word :say
+def :give instructions to or direct somebody to do something with authority
+
+
+
+Synset('keep_open.v.01')
+keep_open save
+unlikely sense detected - new sense:
+Synset('save.v.05')
+word :save
+def :accumulate money for future use
+
+
+
+
+Synset('hat.n.02')
+hat hat
+word :hat
+def :an informal term for a person's role
+
+
+
+

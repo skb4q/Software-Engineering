@@ -1,0 +1,421 @@
+9c9
+< Synset('busy.a.01')
+---
+> Synset('interfering.s.01')
+11c11
+< def :actively or fully engaged or occupied
+---
+> def :intrusive in a meddling or offensive manner
+17,18c17,18
+< Synset('play.v.35')
+< play play
+---
+> Synset('toy.v.02')
+> toy play
+20c20
+< Synset('play.v.01')
+---
+> Synset('play.v.35')
+22c22
+< def :participate in games or sport
+---
+> def :exhaust by allowing to pull on the line
+35a36
+> None
+39c40
+< Synset('make.v.42')
+---
+> Synset('make.v.35')
+42c43
+< Synset('make.v.01')
+---
+> Synset('make.v.42')
+44c45
+< def :engage in
+---
+> def :represent fictitiously, as in a play, or pretend to be or act like
+50c51
+< Synset('ask.v.01')
+---
+> Synset('necessitate.v.01')
+52c53
+< def :inquire about
+---
+> def :require as useful, just, or proper
+58c59
+< Synset('can.v.01')
+---
+> Synset('displace.v.03')
+60c61
+< def :preserve in a can or tin
+---
+> def :terminate the employment of; discharge from an office or position
+65,66c66,67
+< Synset('play.v.35')
+< play play
+---
+> Synset('toy.v.02')
+> toy play
+68c69
+< Synset('play.v.01')
+---
+> Synset('play.v.35')
+70c71
+< def :participate in games or sport
+---
+> def :exhaust by allowing to pull on the line
+107c108
+< Synset('state.v.01')
+---
+> Synset('order.v.01')
+109c110
+< def :express in words
+---
+> def :give instructions to or direct somebody to do something with authority
+120,121c121,122
+< Synset('flee.v.01')
+< flee fly
+---
+> Synset('fly.v.10')
+> fly fly
+123c124
+< Synset('fly.v.01')
+---
+> Synset('flee.v.01')
+125c126
+< def :travel through the air; be airborne
+---
+> def :run away quickly
+133c134
+< Synset('state.v.01')
+---
+> Synset('order.v.01')
+135c136
+< def :express in words
+---
+> def :give instructions to or direct somebody to do something with authority
+151c152
+< Synset('pull.v.01')
+---
+> Synset('attract.v.01')
+153c154
+< def :cause to move by pulling
+---
+> def :direct toward itself or oneself by means of some psychological power or physical attributes
+159c160
+< Synset('large.a.01')
+---
+> Synset('big.s.12')
+161c162
+< def :above average in size or number or quantity or magnitude or extent
+---
+> def :given or giving freely
+166c167
+< Synset('blue.s.01')
+---
+> Synset('gloomy.s.02')
+168c169
+< def :of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky
+---
+> def :filled with melancholy and despondency
+173c174
+< Synset('fish.n.01')
+---
+> Synset('pisces.n.02')
+175c176
+< def :any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills
+---
+> def :(astrology) a person who is born while the sun is in Pisces
+185c186
+< Synset('give.v.01')
+---
+> Synset('hold.v.03')
+187c188
+< def :cause to have, in the abstract sense or physical sense
+---
+> def :organize or be responsible for
+199a201,204
+> Synset('activated.s.02')
+> activated excited
+> word :excited
+> def :(of e.g. a molecule) made reactive or more reactive
+206c211
+< Synset('keep.v.01')
+---
+> Synset('reserve.v.04')
+208c213
+< def :keep in a certain state, position, or activity; e.g., "keep clean"
+---
+> def :arrange for and reserve (something for someone else) in advance
+223c228
+< Synset('pull.v.01')
+---
+> Synset('attract.v.01')
+225c230
+< def :cause to move by pulling
+---
+> def :direct toward itself or oneself by means of some psychological power or physical attributes
+232c237
+< Synset('yard.n.01')
+---
+> Synset('yard.n.08')
+234c239
+< def :a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride
+---
+> def :a long horizontal spar tapered at the end and used to support and spread a square sail or lateen
+246c251
+< Synset('blow.v.01')
+---
+> Synset('float.v.01')
+248c253
+< def :exhale hard
+---
+> def :be in motion due to some air or water current
+283c288
+< Synset('watch.v.01')
+---
+> Synset('watch.v.06')
+285c290
+< def :look attentively
+---
+> def :observe or determine by looking
+296c301
+< Synset('pull.v.01')
+---
+> Synset('attract.v.01')
+298c303
+< def :cause to move by pulling
+---
+> def :direct toward itself or oneself by means of some psychological power or physical attributes
+321,322c326,327
+< Synset('flee.v.01')
+< flee fly
+---
+> Synset('fly.v.10')
+> fly fly
+324c329
+< Synset('fly.v.01')
+---
+> Synset('flee.v.01')
+326c331
+< def :travel through the air; be airborne
+---
+> def :run away quickly
+340a346,348
+> Synset('pursuit.n.01')
+> pursuit chase
+> unlikely sense detected - new sense:
+342d349
+< chase chase
+360c367
+< Synset('run.v.01')
+---
+> Synset('scat.v.01')
+362c369
+< def :move fast by using one's feet, with one foot off the ground at any given time
+---
+> def :flee; take to one's heels; cut and run
+391c398
+< Synset('catch.v.01')
+---
+> Synset('get.v.19')
+393c400
+< def :discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state
+---
+> def :reach with a blow or hit in a particular spot
+411c418
+< Synset('state.v.01')
+---
+> Synset('order.v.01')
+413c420
+< def :express in words
+---
+> def :give instructions to or direct somebody to do something with authority
+424a432
+> None
+429c437
+< Synset('head.n.01')
+---
+> Synset('oral_sex.n.01')
+431c439
+< def :the upper part of the human body or the front part of the body in animals; contains the face and brains
+---
+> def :oral stimulation of the genitals
+439c447
+< Synset('high.a.01')
+---
+> Synset('high.s.05')
+441c449
+< def :greater than normal in degree or intensity or amount
+---
+> def :happy and excited and energetic
+451a460,462
+> Synset('help_oneself.v.01')
+> help_oneself help
+> unlikely sense detected - new sense:
+453d463
+< help help
+460,463c470,471
+< Synset('shout.v.02')
+< shout yell
+< unlikely sense detected - new sense:
+< Synset('shout.v.02')
+---
+> Synset('yell.v.02')
+> yell yell
+465c473
+< def :utter a sudden loud cry
+---
+> def :utter or declare in a very loud voice
+466a475,477
+> Synset('help_oneself.v.01')
+> help_oneself help
+> unlikely sense detected - new sense:
+468d478
+< help help
+472a483,485
+> Synset('help_oneself.v.01')
+> help_oneself help
+> unlikely sense detected - new sense:
+474d486
+< help help
+487c499
+< Synset('high.a.01')
+---
+> Synset('high.s.05')
+489c501
+< def :greater than normal in degree or intensity or amount
+---
+> def :happy and excited and energetic
+497c509
+< Synset('reach.v.01')
+---
+> Synset('reach.v.07')
+499c511
+< def :reach a destination, either real or abstract
+---
+> def :reach a goal, e.g., "make the first team"
+507c519
+< Synset('state.v.01')
+---
+> Synset('order.v.01')
+509c521
+< def :express in words
+---
+> def :give instructions to or direct somebody to do something with authority
+523,524c535,536
+< Synset('take.v.35')
+< take take
+---
+> Synset('remove.v.01')
+> remove take
+526c538
+< Synset('take.v.01')
+---
+> Synset('take.v.35')
+528c540
+< def :carry out
+---
+> def :have sex with; archaic use
+532c544
+< Synset('hat.n.01')
+---
+> Synset('hat.n.02')
+535c547
+< def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+---
+> def :an informal term for a person's role
+541c553
+< Synset('keep.v.01')
+---
+> Synset('reserve.v.04')
+543c555
+< def :keep in a certain state, position, or activity; e.g., "keep clean"
+---
+> def :arrange for and reserve (something for someone else) in advance
+552c564
+< Synset('can.v.01')
+---
+> Synset('displace.v.03')
+554c566
+< def :preserve in a can or tin
+---
+> def :terminate the employment of; discharge from an office or position
+560c572
+< Synset('fall.v.01')
+---
+> Synset('decrease.v.01')
+562c574
+< def :descend in free fall under the influence of gravity
+---
+> def :decrease in size, extent, or range
+566c578
+< Synset('hat.n.01')
+---
+> Synset('hat.n.02')
+569c581
+< def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+---
+> def :an informal term for a person's role
+585c597
+< Synset('friend.n.01')
+---
+> Synset('supporter.n.01')
+587c599
+< def :a person you know well and regard with affection and trust
+---
+> def :a person who backs a politician or a team etc.
+598c610
+< Synset('jump.v.01')
+---
+> Synset('derail.v.02')
+600c612
+< def :move forward by leaps and bounds
+---
+> def :run off or leave the rails
+604c616
+< Synset('hat.n.01')
+---
+> Synset('hat.n.02')
+607c619
+< def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+---
+> def :an informal term for a person's role
+615c627
+< Synset('friend.n.01')
+---
+> Synset('supporter.n.01')
+617c629
+< def :a person you know well and regard with affection and trust
+---
+> def :a person who backs a politician or a team etc.
+645c657
+< Synset('state.v.01')
+---
+> Synset('order.v.01')
+647c659
+< def :express in words
+---
+> def :give instructions to or direct somebody to do something with authority
+651,652c663,664
+< Synset('save.v.05')
+< save save
+---
+> Synset('keep_open.v.01')
+> keep_open save
+654c666
+< Synset('salvage.v.01')
+---
+> Synset('save.v.05')
+656c668
+< def :save from ruin, destruction, or harm
+---
+> def :accumulate money for future use
+661c673
+< Synset('hat.n.01')
+---
+> Synset('hat.n.02')
+664c676
+< def :headdress that protects the head from bad weather; has shaped crown and usually a brim
+---
+> def :an informal term for a person's role
